@@ -1,0 +1,9 @@
+package AirportApplication.repository;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import AirportApplication.models.Airport;
+
+public interface AirportRepository extends MongoRepository<Airport,Integer> {
+
+}

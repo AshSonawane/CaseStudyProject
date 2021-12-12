@@ -1,0 +1,4 @@
+spring.application.name=Airport_service
+server.port=8085
+spring.data.mongodb.uri=mongodb+srv://Ashish:Atom@cluster0.reseo.mongodb.net/?retryWrites=true&w=majority
+'spring.mvc.pathmatch.matching-strategy=ant_path_matcher'
